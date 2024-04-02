@@ -55,7 +55,7 @@
 ;      set jail-term random max-jail-term
 ;      go-to prison
 ;    ]
-;Exempel comment
+
 
 
 ; ************ INCLUDED FILES *****************
